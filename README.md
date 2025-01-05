@@ -1,1 +1,1 @@
-# soccer-champ-app
+# soccer-champ-app : Bug tracker
